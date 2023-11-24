@@ -1,0 +1,13 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include <vector>
+#include <windows.h>
+#include <fstream>
+#include <stdlib.h>
+#include <conio.h>
+#include <iomanip>
+#include <Windows.h>
+#include <queue>
+#include <stack>
+#include <list>
